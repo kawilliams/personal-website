@@ -1,0 +1,8 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+I design data visualizations for high-performance computing data and investigate the use of visualization in Jupyter notebooks.
