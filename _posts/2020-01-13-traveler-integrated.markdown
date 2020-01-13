@@ -3,6 +3,7 @@ layout: post
 title:  "Traveler Integrated"
 date:   2020-01-13 10:46:14 -0700
 categories: data-vis dashboard
+image: travelerintegrated.png
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
