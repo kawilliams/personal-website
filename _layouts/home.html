@@ -20,7 +20,7 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-          <a class="post-link" href="{{ post.url | relative_url }}"><img src="{{ post.image }}" style="border-radius: 8px; width: 150px; border-width: 2px; border-color: black; "></a>
+          <a class="post-link" href="{{ post.url | relative_url }}"><img src="{{ post.image }}" style="border-radius: 8px; width: 250px; border-width: 2px; border-color: black; "></a>
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
@@ -31,5 +31,7 @@ layout: default
 
 <!--     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
   {%- endif -%}
+
+
 
 </div>
