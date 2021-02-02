@@ -27,9 +27,9 @@ li > ul, li > ol { margin-bottom: 0; }
 h1, h2, h3, h4, h5, h6 { font-weight: 400; }
 
 /** Links */
-a { color: #2a7ae2; text-decoration: none; }
+a { color: #0d7eb8; text-decoration: none; }
 
-a:visited { color: #1756a9; }
+a:visited { color: #07557d; }
 
 a:hover { color: #111; text-decoration: underline; }
 
