@@ -6,4 +6,4 @@ layout: home
 list_title: Projects
 ---
 
-I design data visualizations for high-performance computing data and investigate the use of visualization in Jupyter notebooks.
+I am interested in how we think about data and communicate those ideas. I also design data visualizations for high-performance computing data.
