@@ -8,9 +8,6 @@ relative_url: "../../../../"
 permalink: /abstractions/
 ---
 
-
-<img src='{{ "images/plushies.jpg" | relative_url }}' width="200px"/> 
-
 **Also known as The Plushie Paper (due to our unique survey compensation), we conducted a [survey](https://alex-r-bigelow.github.io/wrangling-survey/index.html) about how people describe their data. The results of the survey are available as an interactive summary [here](https://alex-r-bigelow.github.io/wrangling-survey/Responses.html?viewIndex=0&filters=wpA)**
 
 **Abstract**: 

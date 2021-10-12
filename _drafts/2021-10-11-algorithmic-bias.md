@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Visualizations with U. Chicago"
-date:   2021-10-12 14:31:14 -0700
 categories: data-vis
 image: images/plushies.jpg
 relative_url: "../../../../"
