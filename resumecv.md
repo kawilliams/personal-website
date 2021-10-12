@@ -4,7 +4,7 @@ title: Resume & CV
 permalink: /resumecv/
 ---
 
-My [resume](../resume_etc/resume_katywilliams_ua.pdf) and [CV](../resume_etc/cv_katywilliams_ua.pdf).
+My [resume](../resume_etc/katywilliams_ua_resume.pdf) and [CV](../resume_etc/katywilliams_ua_cv.pdf).
        
 
 
